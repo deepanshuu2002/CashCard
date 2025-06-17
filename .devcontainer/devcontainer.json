@@ -1,0 +1,10 @@
+{
+  "name": "Java 17 Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/java:17",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/maven:2": {}
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  }
+}
